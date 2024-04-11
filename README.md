@@ -1,6 +1,6 @@
 # O Caso da Vinheiria Agnello - Checkpoint Edge Computing
 
-Esse é um projeto para desenvolver um sistema que capta e processa a quantidade de luz no ambiente, para sinalizar se a quantidade de luz incidente no local é adequada ou se está impropria, soando um alarme quando o lugar estiver impróprio para armazenamento dos vinhos 
+Esse é um projeto para desenvolver um sistema que capta e processa a quantidade de luz no ambiente, para sinalizar se a quantidade de luz incidente no local é adequada ou se está impropria, soando um alarme quando a intensidade de luz estiver impropria
 
 ## integrantes :
 rm: 559127 - Diogenes Costa
